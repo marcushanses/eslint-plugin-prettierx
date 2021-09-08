@@ -35,7 +35,7 @@
     "test": "eslint -f unix --ext .js,.ts,.tsx bin lib && cd .. && echo Test passed."
   },
   "dependencies": {
-    "eslint-config-prettier": "~8.3.0",
+    "eslint-config-prettier": "~7.2.0",
     "prettier-linter-helpers": "~1.0.0",
     "prettierx": "github:simonmika/prettierx#newline-before-clause"
   },
